@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Monisha8-ux/Monisha8-ux/blob/main/Blue%20and%20White%20Minimalist%20BI%20Consultant%20LinkedIn%20Banner.png" />
+</p>
+
 ## Hi there 👋
 
 <!--
