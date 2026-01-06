@@ -47,7 +47,10 @@
 
 ---
 
+## 🎯 Career Goal
+Aspiring Data Scientist interested in applying AI to healthcare and real-world problem solving.
 
+---
 ### 🔥 GitHub Streak
 
 <p align="center">
