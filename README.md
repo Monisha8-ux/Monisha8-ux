@@ -62,6 +62,13 @@ Aspiring Data Scientist interested in applying AI to healthcare and real-world p
 
 - 💼 LinkedIn: [Monisha Sharma](https://www.linkedin.com/in/monisha-sharma-019343261)
 - ✉️ Email: *monishasharma@gmail.com*
+- <p align="left">
+  <a href="https://drive.google.com/file/d/1kK3YFZBBZHDiMqZav2kLk6rQwHRGjPoX/view">
+    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+</p>
+
+
 
 ---
 
