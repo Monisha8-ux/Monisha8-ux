@@ -2,9 +2,6 @@
   <img src="https://github.com/Monisha8-ux/Monisha8-ux/blob/main/Blue%20and%20White%20Minimalist%20BI%20Consultant%20LinkedIn%20Banner.png" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Monisha%20Sharma&fontSize=40&fontAlignY=35" />
-</p>
 
 <h2 align="center">Hi 👋, I'm Monisha Sharma</h2>
 <h4 align="center">Data Science Student | Machine Learning & AI Enthusiast</h4>
@@ -73,7 +70,7 @@
 ### 📫 Contact
 
 - 💼 LinkedIn: [Monisha Sharma](https://www.linkedin.com/in/monisha-sharma-019343261)
-- ✉️ Email: *(add academic or professional email)*
+- ✉️ Email: *monishasharma@gmail.com*
 
 ---
 
