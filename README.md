@@ -2,6 +2,9 @@
   <img src="https://github.com/Monisha8-ux/Monisha8-ux/blob/main/Blue%20and%20White%20Minimalist%20BI%20Consultant%20LinkedIn%20Banner.png" />
 </p>
 
+<h1 align="center">Hi 👋, I'm <span style="color:blue;">MONISHA</span><span>SHARMA</span></h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
+
 ## Hi there 👋
 
 <!--
